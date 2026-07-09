@@ -1,2 +1,2 @@
-# Gerenciador de Livros 1
+# Gerenciador de Livros
 Projeto feito para o gerenciamento de livros de uma igreja (utilizando o google planilhas como banco de dados)
